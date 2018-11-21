@@ -1,0 +1,19 @@
+table.myClass {
+  border: 3px solid #000000;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+  font-family: "Bell MT", monospace;
+}
+table.myClass td, table.myClass th {
+  border: 1px solid #000000;
+  padding: 5px 4px;
+}
+table.myClass tbody td {
+  font-size: 13px;
+}
+
+table.myClass td {
+  font-size: 14px;
+  background: rgba(222, 100, 150, 0.62);
+}
